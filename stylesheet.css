@@ -1,0 +1,13 @@
+.title {
+  color: #02ccba;
+}
+.header {
+  display:inline-block;
+  text-align: center;
+}
+.title {
+  padding:20px 20px;
+}
+.title p {
+  text-align: center;
+}
